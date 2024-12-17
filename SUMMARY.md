@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Linear Regression](README.md)
+* [Page](README.md)
