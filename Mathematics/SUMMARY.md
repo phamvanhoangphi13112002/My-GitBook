@@ -1,5 +1,7 @@
 # Table of contents
 
+## INTRODUCTION
+
 * [General Overview](README.md)
 
 ## STATISTICS
