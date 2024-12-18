@@ -1,4 +1,8 @@
 # Table of contents
 
 * [General Overview](README.md)
-  * [Page 1](general-overview/page-1.md)
+  * [Population and Sample](general-overview/population-and-sample.md)
+
+## STATISTICS
+
+* [Population and Sample](statistics/population-and-sample.md)
